@@ -12,12 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <div>
 
 # Welcome to my Github!
 
-## Description
+<div>
+   
+## About Me
+   
+</div>
+
+## What's in My Repository?
 
 This is my personal projects Github repository where I store various side projects,
 ranging from experiments with causal inference, predictive models, and random
