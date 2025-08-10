@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <div>
    
 ## About Me
-   
+   My name is Alex Winston, I'm currently a Data Scientist working in revenue management at a Fortune 500 company. My education background includes a Bachelor's with a double major in industrial engineering & statistics, and a Master's in Analytics. Currently I am working on refining my skills in causal inference analysis, manipulating data with Polars, and researching various new Data Science topics to keep my skills up to date. Some of these pursuits can be found on my Github with more details below.
 </div>
 
 ## What's in My Repository?
